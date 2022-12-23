@@ -1,5 +1,5 @@
 # Number-Guessing-Game
-A pure JavaScipt Game.
+A JavaScipt Game.
 
 ## Technologies Used
 
@@ -16,6 +16,8 @@ Try the game live at [https://malmossa.github.io/Take-A-Note/](https://malmossa.
 
 - Guess a number btween 1 to 100. 
 - If you guess low or hight it will tell you.
-- After you win .
-- Delete a note. 
-- All notes are stored in local storage.
+- After you win confetti and applause sound effect.
+
+## Preview
+
+![screen shot of the app](images/take-note-screen-shot.gif)
