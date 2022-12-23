@@ -55,7 +55,7 @@ function gameWin() {
   startConfetti();
 
   // Play Sound
-  const audio = new Audio("./applause-01.mp3");
+  const audio = new Audio("./sound/applause.mp3");
   audio.play();
 }
 
