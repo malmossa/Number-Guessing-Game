@@ -10,7 +10,7 @@ A JavaScipt Game.
 
 ## Live Demo
 
-Try the game live at [https://malmossa.github.io/Take-A-Note/](https://malmossa.github.io/Take-A-Note/)
+Try the game live at [https://malmossa.github.io/Number-Guessing-Game](https://malmossa.github.io/Number-Guessing-Game)
 
 ## Features
 
