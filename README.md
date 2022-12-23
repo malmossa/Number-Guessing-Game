@@ -20,4 +20,4 @@ Try the game live at [https://malmossa.github.io/Number-Guessing-Game](https://m
 
 ## Preview
 
-![screen shot of the app](images/take-note-screen-shot.gif)
+![screen shot of the app](img/numberGuessingGame.gif)
